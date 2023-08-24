@@ -8,9 +8,6 @@ This application includes user authentication, dark mode, sort movie on the basi
 
 Alan works as in-app voice assistant which create conversational experiences for filmpire.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Key Achievements:
 
