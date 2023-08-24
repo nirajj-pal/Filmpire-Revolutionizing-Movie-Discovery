@@ -11,7 +11,7 @@ Alan works as in-app voice assistant which create conversational experiences for
 
 Key Achievements:
 
-🎬 Vast Movie Exploration: Filmpire is more than just a movie app; it's a gateway to an extensive collection of films spanning diverse categories and genres. Users can effortlessly dive into the world of cinema, discovering hidden gems and all-time favorites.
+🎬 **Vast Movie Exploration**: Filmpire is more than just a movie app; it's a gateway to an extensive collection of films spanning diverse categories and genres. Users can effortlessly dive into the world of cinema, discovering hidden gems and all-time favorites.
 
 📜 Advanced Feature Set: Elevating user engagement was paramount. I engineered advanced features including personalized watchlists and genre-specific recommendations, tailoring the experience to individual preferences. This not only enhances user satisfaction but also encourages prolonged interaction.
 
